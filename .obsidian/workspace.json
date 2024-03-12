@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "8002f6c879ba13ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "da4b9332f42ab99a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "682a33af87592ca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas do Luan/Git/Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97d7ce53ef57c947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas do Luan/Git/Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c037c288f10d1027",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notas do Luan/Git/Drawing 2024-03-12 18.53.08.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6def57f0758051cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bfb15b32a4470f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bab9897720c8b25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ad2d2ccbe8dc8f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8837de9a86e661b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d447ea8a8489b708",
+    "type": "split",
+    "children": [
+      {
+        "id": "1123cfd3882a0b5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51906a5c6b948d8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notas do Luan/Git/Drawing 2024-03-12 18.53.08.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "014aba256c7c7210",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notas do Luan/Git/Drawing 2024-03-12 18.53.08.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7a46ad784c14394",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b21e40ec5149d8b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas do Luan/Git/Drawing 2024-03-12 18.53.08.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c037c288f10d1027",
+  "lastOpenFiles": [
+    "Notas do Luan/Git/Git.md",
+    "Notas do Luan/Git/Drawing 2024-03-12 18.53.08.excalidraw.md",
+    "Notas do Luan/Git",
+    "Notas do Luan/Drawing 2024-03-12 18.50.45.excalidraw.md",
+    "Notas do Luan"
+  ]
+}
